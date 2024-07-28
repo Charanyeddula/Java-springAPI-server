@@ -1,4 +1,4 @@
-# Java Spring Boot Server Demo
+# Java Spring Boot Server 
 
 ## Project Description
 
