@@ -5,7 +5,8 @@
 This project is a basic Java server application built using the Spring Boot framework. It provides a simple RESTful API with multiple endpoints demonstrating different HTTP response statuses (200, 404, 5xx). The application is containerized using Docker and is designed to be deployed on AWS Elastic Beanstalk, utilizing EC2 instances, load balancers, and autoscaling groups.
 
 
-Future Scope
+## Future Scope
+
 The project skeleton will be expanded to set up a home network, integrating various network services and configurations. Future updates will include detailed implementations for managing and monitoring home network devices, providing enhanced security features, and enabling seamless connectivity and communication across all home network devices.
 
 ## Endpoints
